@@ -1,0 +1,13 @@
+##AI相关需要代理的地址
+##openai
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN,cdn.auth0.com
+DOMAIN,openaiapi-site.azureedge.net
+##new bing
+DOMAIN-SUFFIX,bing.com
+DOMAIN-KEYWORD,copilot.microsoft.com
+##claude
+DOMAIN-SUFFIX,anthopic.com
+DOMAIN-SUFFIX,claude.ai
