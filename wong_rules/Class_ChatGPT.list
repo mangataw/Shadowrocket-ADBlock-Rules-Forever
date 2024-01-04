@@ -7,7 +7,8 @@ DOMAIN,cdn.auth0.com
 DOMAIN,openaiapi-site.azureedge.net
 ##new bing
 DOMAIN-SUFFIX,bing.com
-DOMAIN-KEYWORD,copilot.microsoft.com
+DOMAIN,copilot.microsoft.com
+DOMAIN,location.microsoft.com
 ##claude
 DOMAIN-SUFFIX,anthopic.com
 DOMAIN-SUFFIX,claude.ai
