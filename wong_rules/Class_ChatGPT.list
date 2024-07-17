@@ -1,5 +1,6 @@
 ##AI相关需要代理的地址
 ##openai
+DOMAIN-SUFFIX,chagtgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
